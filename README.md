@@ -1,3 +1,4 @@
-# jsp_study_project.BBS
+# Project.BBS
 JSP 입문용 BBS형식의 게시판 제작입니다.
 
+## 24/02/27 전역 이후 한 달 만에 개발공부 다시 시작. 일단은 JAVA, JSP와 서블렛, DB로 기본을 좀 복구하겠습니다.
